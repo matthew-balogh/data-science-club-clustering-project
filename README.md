@@ -15,3 +15,7 @@ Coordinated by *Matthew Balogh* (✉️ matebalogh@student.elte.hu, 🐙 [matth
 Our analysis will be accompanied by visualizations whether it is related to simple or high-dimensional scenarios.
 
 Also, by visiting the above mentioned steps, we expect that by the end of the project we will have both theoretical knowledge and practical experience in the field of *Representation Learning*.
+
+## Documentation
+
+Background information and experimental details are recorded in [Documentation.md](./Documentation.md).
