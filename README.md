@@ -34,4 +34,13 @@ Background information and experimental details are recorded in [Documentation.m
 
 ### Practical part
 
-_To be discussed..._
+The first round of exercises are listed in [applied-exercises/01_dataset.md](./applied-exercises/01_dataset.md).
+
+The related dataset and its brief exploration can be found in the [penguins.ipynb](./datasets/penguins/simple/penguins.ipynb) notebook.
+
+| Topic                          | Solved |
+| :----------------------------- | :----: |
+| Dropping missing values        |   -    |
+| Encoding categorical variables |   -    |
+| Scaling the data               |   -    |
+| Dimensionality reduction       |   -    |
