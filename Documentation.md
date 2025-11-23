@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-![](./resources/overview.png)
+![](./_images/overview.png)
 
 ## Background
 
@@ -33,6 +33,3 @@ And we will use 2D visualizations to **explore**, **understand** and **explain**
 Throughout the above steps, we will get hands on experience how unsupervised and representation learning works along with how to visualize high-dimensional data in a way that is interpretable for the human eye. At the end, we will connect how SOM relates to a neural network.
 
 With all the steps documented, we will end up with a **concise** and **comprehensive report** that you can refer to in the future, along with the possibility to share our results via certain channels of the *Data Science Club*.
-
-> [!WARNING]
-> Team member responsibilities are yet to be determined.
