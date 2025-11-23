@@ -39,7 +39,7 @@ That is, records (rows) having missing value in **any of their features** (colum
 
 ## Exercise 2
 
-The *categorical variables* such as *island*, *sex*, and *year* were excluded from the simple dataset. If we were to learn from those variables too, we would need to convert them into numerical form. One way is to assign a number to each unique value.
+The *categorical variables* such as *island*, *sex* were excluded from the simple dataset. If we were to learn from those variables too, we would need to convert them into numerical form. One way is to assign a number to each unique value.
 
 **Question:** *Why do we need to be careful with this form when calculating similarities between data points (records)? Is there any other commonly used approach to encode categorical variables that bypasses the issue, what is its drawback?*
 
