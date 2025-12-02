@@ -1,4 +1,4 @@
-# Applied Exercises | Dataset
+# Exercise 1 | Dataset
 
 ## Introduction
 
