@@ -48,7 +48,7 @@ The related dataset and its brief exploration can be found in the [penguins.ipyn
 
 | Topic                          | Solved |
 | :----------------------------- | :----: |
-| Dropping missing values        |   -    |
-| Encoding categorical variables |   -    |
-| Scaling the data               |   -    |
+| Dropping missing values        |   ✅    |
+| Encoding categorical variables |   ✅    |
+| Scaling the data               |   ✅    |
 | Dimensionality reduction       |   -    |
